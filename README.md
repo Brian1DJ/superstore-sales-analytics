@@ -58,7 +58,7 @@ SQL → Excel → Tableau
 
 ## Interactive Dashboard
 
-https://public.tableau.com/views/Super_Store_Sales_17871355224590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[View the Tableau Public Dashboard](https://public.tableau.com/views/Super_Store_Sales_17871355224590/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Analysis Files
 
