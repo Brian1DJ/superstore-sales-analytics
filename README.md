@@ -74,5 +74,5 @@ Completed
 
 Brian Mathew De Jesus
 
-[LinkedIn](YOUR_LINKEDIN_LINK)
-[GitHub](YOUR_GITHUB_LINK)
+[LinkedIn](https://www.linkedin.com/in/brianmathewdejesus/)
+[GitHub](https://github.com/Brian1DJ)
