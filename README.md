@@ -54,7 +54,7 @@ SQL → Excel → Tableau
 
 ## Dashboard Preview
 
-![Tableau Dashboard](tableau/screenshots/dashboard_overview.png)
+![Tableau Dashboard](tableau/screenshots/Dashboard.png)
 
 ## Interactive Dashboard
 
